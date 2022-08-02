@@ -4,7 +4,7 @@ I'm a Canadian Korean guy who has a curious mind. I'd like to learn something ne
 
 - 🌱 I’m currently learning *Software Developement*.
 - ⛳️ My hobbies are swimming 🏊‍♂️, bonsai 🌳, and video editing 🎥.
-- 💌 Contact me at [jamespark7737@gmail.com](mailto:jamespark7737@gmail.com)
+- ✉️ Contact me at [jamespark7737@gmail.com](mailto:jamespark7737@gmail.com)
 
 Technologies I've been learning and using so far :
 
