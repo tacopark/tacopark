@@ -14,7 +14,8 @@ I'm a Canadian Korean guy who has a curious mind. I'd like to learn something ne
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![R Lang](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
