@@ -17,10 +17,10 @@ Technologies I've been learning and using so far :
     ![R Lang](https://img.shields.io/badge/-R%20Lang-eee?style=flat-square&logo=r&logoColor=276dc3)
 - Frontend : <br />
 ![HTML](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](http://img.shields.io/badge/-CSS-eee?style=flat-square&logo=css&logoColor=007ACC)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS](http://img.shields.io/badge/-CSS-eee?style=flat-square&logo=CSS)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)>
 
-- Backend : <br />
+- Backend : <br /
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
