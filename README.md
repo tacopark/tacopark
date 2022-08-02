@@ -8,5 +8,6 @@ I'm a Canadian Korean guy who has a curious mind. I'd like to learn something ne
 
 
 - 🌱 I’m currently learning *Software Developement*.
-- My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://www.goodreads.com/user/show/19630622-thi-dinh) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
+- ⛳️ My hobbies are swimming 🏊‍♂️, bonsai 🌳, and video editing 🎥.
+- 💌 Contact me at [jamespark7737@gmail.com](mailto:jamespark7737@gmail.com)
 
