@@ -14,7 +14,7 @@ Technologies I've been learning and using so far :
     ![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)
     ![C](http://img.shields.io/badge/-c-eee?style=flat-square&logo=c&logoColor#F7BD2F)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript)
-    ![R Lang](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+    ![R Lang](http://img.shields.io/badge/-r-eee?style=flat-square&logo=r&logoColor#F7BD2F)
     
 - Frontend : <br />
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
