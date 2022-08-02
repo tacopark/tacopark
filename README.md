@@ -15,7 +15,6 @@ Technologies I've been learning and using so far :
     ![C](http://img.shields.io/badge/-c-eee?style=flat-square&logo=c&logoColor#F7BD2F)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript)
     ![R Lang](https://img.shields.io/badge/-R%20Lang-eee?style=flat-square&logo=r&logoColor=276dc3)
-    
 - Frontend : <br />
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
