@@ -12,7 +12,7 @@ Technologies I've been learning and using so far :
 - Programming languages : <br />
     ![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor#F7BD2F)
     ![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)
-    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+    ![C](http://img.shields.io/badge/-c-eee?style=flat-square&logo=c&logoColor#F7BD2F)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript)
     ![R Lang](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
     
