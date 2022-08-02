@@ -10,8 +10,8 @@ I'm a Canadian Korean guy who has a curious mind. I'd like to learn something ne
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor#F7BD2F)
+    ![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)
     ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript)
     ![R Lang](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
